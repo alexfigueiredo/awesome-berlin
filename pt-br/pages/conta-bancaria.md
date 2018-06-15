@@ -16,7 +16,9 @@ Clientes do DB podem realizar saques (sem custo) em caixas eletrônicos dos segu
 
 ## N26
 
+**Edit 15/06/2018:** N26 não está mais aceitando passaportes brasileiros para abertura de novas contas (contas antigas continuam válidas).
+
 Abrir uma conta no N26 é relativamente fácil e rápido. Cadastre-se em [https://n26.com/](https://n26.com/) e siga os passos indicados. Será necessário enviar um scan de seu passaporte e parear seu smartphone com o aplicativo (um número de telefone da Alemanha é requerido). Após, será necessário verificar sua identidade para que sua conta fique ativa. Há duas formas de fazer essa verificação:
-- via vídeo chamada (apenas siga os passos do aplicativo - será necessário mostrar seu passaporte pela webcam.) **Edit 19/11/2016:** N26 agora aceita passaporte Brasileiro para identificação via vídeo chamada! 
+- via vídeo chamada (apenas siga os passos do aplicativo - será necessário mostrar seu passaporte pela webcam.) 
 - via PostIndent (você deverá imprimir um código de barras - recebido por email - e comparecer em um Post office com sua identidade e seu registro de residência. Não tem custo nenhum, mas leva entre 1 e 2 dias para o banco receber essa confirmação. Há vários Post offices espalhados pela cidade, o que eu fui fica em Frankfurt Allee 1)
 
